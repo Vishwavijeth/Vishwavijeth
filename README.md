@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwavijeth V</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3">
 
