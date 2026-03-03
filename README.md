@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwavijeth V</h1>
-<h3 align="center">Software Engineer | Backend & Data Engineering Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3">
 
@@ -64,15 +64,5 @@ Strong in backend engineering with growing focus on Data Engineering & AI system
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> 
   <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" width="50" height="50"/>
 </p>
-
----
-
-<h3 align="left">🔥 Current Focus</h3>
-
-- Backend System Design  
-- Distributed Systems  
-- Data Engineering (Spark, ETL, Pipelines)  
-- Cloud Architecture (AWS & Azure)  
-- AI + LLM Application Workflows  
 
 ---
