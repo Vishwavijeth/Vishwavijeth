@@ -1,68 +1,99 @@
-<h1 align="center">Hi 👋, I'm Vishwavijeth V</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hey there 👋 I'm Vishwavijeth V</h1>
 
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>
-I build scalable backend systems, data pipelines, and cloud-powered applications.
-Strong in backend engineering with growing focus on Data Engineering & AI systems.
-</p>
+## 👨‍💻 About Me
+
+- 🚀 Backend-focused Software Engineer
+- ⚡ Building scalable APIs, async systems & data pipelines
+- 🧠 Interested in AI systems, distributed systems & data engineering
+- ☁️ Working with cloud-native architectures and modern backend stacks
+- 📚 Exploring Spark, orchestration systems, and ML infrastructure
+- 🎯 Goal: Build high-scale engineering systems with AI integration
 
 📫 Reach me at: **vishwavijay2621@gmail.com**
 
+🌐 Portfolio: **https://vishwavijeth.site**
+
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://linkedin.com/in/vishwavijeth-v" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
+  
   <a href="https://instagram.com/vichu_2604" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
+
   <a href="https://vishwavijeth.site" target="_blank">
-    <img align="center" src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572-768x591.png" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
   </a>
 </p>
 
 ---
 
-<h2 align="left">🚀 Tech Stack</h2>
+# 🚀 Tech Stack
 
-<h3>🧠 Languages</h3>
+## 💻 Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original-wordmark.svg" width="50" height="50"/> 
+  <img src="https://img.shields.io/static/v1?label=&message=Python&style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C" />
+  
 </p>
 
-<h3>⚙️ Frameworks & Tools</h3>
+---
+
+## ⚙️ Backend & Frameworks
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://img.freepik.com/premium-vector/celery-logo-design-vector-templet_1070930-77.jpg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://img.shields.io/static/v1?label=&message=FastAPI&style=for-the-badge&logo=fastapi&logoColor=white&color=009688" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Django&style=for-the-badge&logo=django&logoColor=white&color=092E20" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Flask&style=for-the-badge&logo=flask&logoColor=white&color=000000" />
+      
+  <img src="https://img.shields.io/static/v1?label=&message=Celery&style=for-the-badge&logo=celery&logoColor=white&color=37814A" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Redis&style=for-the-badge&logo=redis&logoColor=white&color=DC382D" />
+    
+  <img src="https://img.shields.io/static/v1?label=&message=TailwindCSS&style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Apache%20Spark&style=for-the-badge&logo=apachespark&logoColor=white&color=E25A1C" />
 </p>
 
-<h3>🗄️ Databases</h3>
+---
+
+## 🗄️ Databases
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/> 
+  <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
+
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=for-the-badge&logo=mysql&logoColor=white&color=4479A1" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Firebase&style=for-the-badge&logo=firebase&logoColor=black&color=FFCA28" />
 </p>
 
-<h3>☁️ Cloud & DevOps</h3>
+---
+
+## ☁️ Cloud & DevOps
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" width="50" height="50"/>
+  <img src="https://img.shields.io/static/v1?label=&message=AWS&style=for-the-badge&logo=amazonaws&logoColor=white&color=232F3E" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Azure&style=for-the-badge&logo=microsoftazure&logoColor=white&color=0078D4" />
+  
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
+    
+  <img src="https://img.shields.io/static/v1?label=&message=Git&style=for-the-badge&logo=git&logoColor=white&color=F05032" />
 </p>
 
 ---
